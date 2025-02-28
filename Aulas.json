@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "67c12e393e519634a4fdce7d"
+  },
+  "professor": {
+    "nome": "Evelyn Almeida Santos"
+  },
+  "assunto": "Algoritmos e Estrutura de Dados I",
+  "alunos": [
+    {
+      "nome": "Isabella Alves"
+    },
+    {
+      "nome": "Rafael Azevedo Ferreira"
+    },
+    {
+      "nome": "Carlos Almeida Correia"
+    },
+    {
+      "nome": "Carla Souza Dias"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67c12e903e519634a4fdce7e"
+  },
+  "professor": {
+    "nome": "Marcos Cardoso"
+  },
+  "assunto": "Circuitos Elétricos em Corrente Contínua",
+  "alunos": [
+    {
+      "nome": "Victor Almeida"
+    },
+    {
+      "nome": "Mariana Alves Carvalho"
+    },
+    {
+      "nome": "Igor Oliveira"
+    },
+    {
+      "nome": "Kauê Melo Ribeiro"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67c12edd3e519634a4fdce7f"
+  },
+  "professor": {
+    "nome": "Samuel Castro Silva"
+  },
+  "assunto": "Matemática Aplicada à Engenharia",
+  "alunos": [
+    {
+      "nome": "Beatriz Silva Gonçalves"
+    },
+    {
+      "nome": "Diogo Rocha Costa"
+    },
+    {
+      "nome": "Douglas Carvalho"
+    },
+    {
+      "nome": "Eduardo Barbosa"
+    }
+  ]
+}]
