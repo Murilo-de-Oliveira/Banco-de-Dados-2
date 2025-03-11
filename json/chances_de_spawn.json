@@ -1,0 +1,606 @@
+[
+    {
+        "name": "Bulbasaur",
+        "spawn_chance": 0.69
+    },
+    {
+        "name": "Ivysaur",
+        "spawn_chance": 0.042
+    },
+    {
+        "name": "Venusaur",
+        "spawn_chance": 0.017
+    },
+    {
+        "name": "Charmander",
+        "spawn_chance": 0.253
+    },
+    {
+        "name": "Charmeleon",
+        "spawn_chance": 0.012
+    },
+    {
+        "name": "Charizard",
+        "spawn_chance": 0.0031
+    },
+    {
+        "name": "Squirtle",
+        "spawn_chance": 0.58
+    },
+    {
+        "name": "Wartortle",
+        "spawn_chance": 0.034
+    },
+    {
+        "name": "Blastoise",
+        "spawn_chance": 0.0067
+    },
+    {
+        "name": "Caterpie",
+        "spawn_chance": 3.032
+    },
+    {
+        "name": "Metapod",
+        "spawn_chance": 0.187
+    },
+    {
+        "name": "Butterfree",
+        "spawn_chance": 0.022
+    },
+    {
+        "name": "Weedle",
+        "spawn_chance": 7.12
+    },
+    {
+        "name": "Kakuna",
+        "spawn_chance": 0.44
+    },
+    {
+        "name": "Beedrill",
+        "spawn_chance": 0.051
+    },
+    {
+        "name": "Pidgey",
+        "spawn_chance": 15.98
+    },
+    {
+        "name": "Pidgeotto",
+        "spawn_chance": 1.02
+    },
+    {
+        "name": "Pidgeot",
+        "spawn_chance": 0.13
+    },
+    {
+        "name": "Rattata",
+        "spawn_chance": 13.05
+    },
+    {
+        "name": "Raticate",
+        "spawn_chance": 0.41
+    },
+    {
+        "name": "Spearow",
+        "spawn_chance": 4.73
+    },
+    {
+        "name": "Fearow",
+        "spawn_chance": 0.15
+    },
+    {
+        "name": "Ekans",
+        "spawn_chance": 2.27
+    },
+    {
+        "name": "Arbok",
+        "spawn_chance": 0.072
+    },
+    {
+        "name": "Pikachu",
+        "spawn_chance": 0.21
+    },
+    {
+        "name": "Raichu",
+        "spawn_chance": 0.0076
+    },
+    {
+        "name": "Sandshrew",
+        "spawn_chance": 1.11
+    },
+    {
+        "name": "Sandslash",
+        "spawn_chance": 0.037
+    },
+    {
+        "name": "Nidoran \u00e2\u2122\u20ac (Female)",
+        "spawn_chance": 1.38
+    },
+    {
+        "name": "Nidorina",
+        "spawn_chance": 0.088
+    },
+    {
+        "name": "Nidoqueen",
+        "spawn_chance": 0.012
+    },
+    {
+        "name": "Nidoran \u00e2\u2122\u201a (Male)",
+        "spawn_chance": 1.31
+    },
+    {
+        "name": "Nidorino",
+        "spawn_chance": 0.083
+    },
+    {
+        "name": "Nidoking",
+        "spawn_chance": 0.017
+    },
+    {
+        "name": "Clefairy",
+        "spawn_chance": 0.92
+    },
+    {
+        "name": "Clefable",
+        "spawn_chance": 0.012
+    },
+    {
+        "name": "Vulpix",
+        "spawn_chance": 0.22
+    },
+    {
+        "name": "Ninetales",
+        "spawn_chance": 0.0077
+    },
+    {
+        "name": "Jigglypuff",
+        "spawn_chance": 0.39
+    },
+    {
+        "name": "Wigglytuff",
+        "spawn_chance": 0.018
+    },
+    {
+        "name": "Zubat",
+        "spawn_chance": 6.52
+    },
+    {
+        "name": "Golbat",
+        "spawn_chance": 0.42
+    },
+    {
+        "name": "Oddish",
+        "spawn_chance": 1.02
+    },
+    {
+        "name": "Gloom",
+        "spawn_chance": 0.064
+    },
+    {
+        "name": "Vileplume",
+        "spawn_chance": 0.0097
+    },
+    {
+        "name": "Paras",
+        "spawn_chance": 2.36
+    },
+    {
+        "name": "Parasect",
+        "spawn_chance": 0.074
+    },
+    {
+        "name": "Venonat",
+        "spawn_chance": 2.28
+    },
+    {
+        "name": "Venomoth",
+        "spawn_chance": 0.072
+    },
+    {
+        "name": "Diglett",
+        "spawn_chance": 0.4
+    },
+    {
+        "name": "Dugtrio",
+        "spawn_chance": 0.014
+    },
+    {
+        "name": "Meowth",
+        "spawn_chance": 0.86
+    },
+    {
+        "name": "Persian",
+        "spawn_chance": 0.022
+    },
+    {
+        "name": "Psyduck",
+        "spawn_chance": 2.54
+    },
+    {
+        "name": "Golduck",
+        "spawn_chance": 0.087
+    },
+    {
+        "name": "Mankey",
+        "spawn_chance": 0.92
+    },
+    {
+        "name": "Primeape",
+        "spawn_chance": 0.031
+    },
+    {
+        "name": "Growlithe",
+        "spawn_chance": 0.92
+    },
+    {
+        "name": "Arcanine",
+        "spawn_chance": 0.017
+    },
+    {
+        "name": "Poliwag",
+        "spawn_chance": 2.19
+    },
+    {
+        "name": "Poliwhirl",
+        "spawn_chance": 0.13
+    },
+    {
+        "name": "Poliwrath",
+        "spawn_chance": 0.011
+    },
+    {
+        "name": "Abra",
+        "spawn_chance": 0.42
+    },
+    {
+        "name": "Kadabra",
+        "spawn_chance": 0.027
+    },
+    {
+        "name": "Alakazam",
+        "spawn_chance": 0.0073
+    },
+    {
+        "name": "Machop",
+        "spawn_chance": 0.49
+    },
+    {
+        "name": "Machoke",
+        "spawn_chance": 0.034
+    },
+    {
+        "name": "Machamp",
+        "spawn_chance": 0.0068
+    },
+    {
+        "name": "Bellsprout",
+        "spawn_chance": 1.15
+    },
+    {
+        "name": "Weepinbell",
+        "spawn_chance": 0.072
+    },
+    {
+        "name": "Victreebel",
+        "spawn_chance": 0.0059
+    },
+    {
+        "name": "Tentacool",
+        "spawn_chance": 0.81
+    },
+    {
+        "name": "Tentacruel",
+        "spawn_chance": 0.082
+    },
+    {
+        "name": "Geodude",
+        "spawn_chance": 1.19
+    },
+    {
+        "name": "Graveler",
+        "spawn_chance": 0.071
+    },
+    {
+        "name": "Golem",
+        "spawn_chance": 0.0047
+    },
+    {
+        "name": "Ponyta",
+        "spawn_chance": 0.51
+    },
+    {
+        "name": "Rapidash",
+        "spawn_chance": 0.011
+    },
+    {
+        "name": "Slowpoke",
+        "spawn_chance": 1.05
+    },
+    {
+        "name": "Slowbro",
+        "spawn_chance": 0.036
+    },
+    {
+        "name": "Magnemite",
+        "spawn_chance": 0.71
+    },
+    {
+        "name": "Magneton",
+        "spawn_chance": 0.023
+    },
+    {
+        "name": "Farfetch'd",
+        "spawn_chance": 0.0212
+    },
+    {
+        "name": "Doduo",
+        "spawn_chance": 0.52
+    },
+    {
+        "name": "Dodrio",
+        "spawn_chance": 0.22
+    },
+    {
+        "name": "Seel",
+        "spawn_chance": 0.28
+    },
+    {
+        "name": "Dewgong",
+        "spawn_chance": 0.013
+    },
+    {
+        "name": "Grimer",
+        "spawn_chance": 0.052
+    },
+    {
+        "name": "Muk",
+        "spawn_chance": 0.0031
+    },
+    {
+        "name": "Shellder",
+        "spawn_chance": 0.52
+    },
+    {
+        "name": "Cloyster",
+        "spawn_chance": 0.015
+    },
+    {
+        "name": "Gastly",
+        "spawn_chance": 0.79
+    },
+    {
+        "name": "Haunter",
+        "spawn_chance": 0.052
+    },
+    {
+        "name": "Gengar",
+        "spawn_chance": 0.0067
+    },
+    {
+        "name": "Onix",
+        "spawn_chance": 0.1
+    },
+    {
+        "name": "Drowzee",
+        "spawn_chance": 3.21
+    },
+    {
+        "name": "Hypno",
+        "spawn_chance": 0.1
+    },
+    {
+        "name": "Krabby",
+        "spawn_chance": 2.12
+    },
+    {
+        "name": "Kingler",
+        "spawn_chance": 0.062
+    },
+    {
+        "name": "Voltorb",
+        "spawn_chance": 0.65
+    },
+    {
+        "name": "Electrode",
+        "spawn_chance": 0.02
+    },
+    {
+        "name": "Exeggcute",
+        "spawn_chance": 0.78
+    },
+    {
+        "name": "Exeggutor",
+        "spawn_chance": 0.014
+    },
+    {
+        "name": "Cubone",
+        "spawn_chance": 0.61
+    },
+    {
+        "name": "Marowak",
+        "spawn_chance": 0.02
+    },
+    {
+        "name": "Hitmonlee",
+        "spawn_chance": 0.02
+    },
+    {
+        "name": "Hitmonchan",
+        "spawn_chance": 0.022
+    },
+    {
+        "name": "Lickitung",
+        "spawn_chance": 0.011
+    },
+    {
+        "name": "Koffing",
+        "spawn_chance": 0.2
+    },
+    {
+        "name": "Weezing",
+        "spawn_chance": 0.016
+    },
+    {
+        "name": "Rhyhorn",
+        "spawn_chance": 0.63
+    },
+    {
+        "name": "Rhydon",
+        "spawn_chance": 0.022
+    },
+    {
+        "name": "Chansey",
+        "spawn_chance": 0.013
+    },
+    {
+        "name": "Tangela",
+        "spawn_chance": 0.228
+    },
+    {
+        "name": "Kangaskhan",
+        "spawn_chance": 0.0086
+    },
+    {
+        "name": "Horsea",
+        "spawn_chance": 1.13
+    },
+    {
+        "name": "Seadra",
+        "spawn_chance": 0.034
+    },
+    {
+        "name": "Goldeen",
+        "spawn_chance": 2.18
+    },
+    {
+        "name": "Seaking",
+        "spawn_chance": 0.08
+    },
+    {
+        "name": "Staryu",
+        "spawn_chance": 1.95
+    },
+    {
+        "name": "Starmie",
+        "spawn_chance": 0.034
+    },
+    {
+        "name": "Mr. Mime",
+        "spawn_chance": 0.0031
+    },
+    {
+        "name": "Scyther",
+        "spawn_chance": 0.14
+    },
+    {
+        "name": "Jynx",
+        "spawn_chance": 0.35
+    },
+    {
+        "name": "Electabuzz",
+        "spawn_chance": 0.074
+    },
+    {
+        "name": "Magmar",
+        "spawn_chance": 0.1
+    },
+    {
+        "name": "Pinsir",
+        "spawn_chance": 0.99
+    },
+    {
+        "name": "Tauros",
+        "spawn_chance": 0.12
+    },
+    {
+        "name": "Magikarp",
+        "spawn_chance": 4.78
+    },
+    {
+        "name": "Gyarados",
+        "spawn_chance": 0.0032
+    },
+    {
+        "name": "Lapras",
+        "spawn_chance": 0.006
+    },
+    {
+        "name": "Ditto",
+        "spawn_chance": 0
+    },
+    {
+        "name": "Eevee",
+        "spawn_chance": 2.75
+    },
+    {
+        "name": "Vaporeon",
+        "spawn_chance": 0.014
+    },
+    {
+        "name": "Jolteon",
+        "spawn_chance": 0.012
+    },
+    {
+        "name": "Flareon",
+        "spawn_chance": 0.017
+    },
+    {
+        "name": "Porygon",
+        "spawn_chance": 0.012
+    },
+    {
+        "name": "Omanyte",
+        "spawn_chance": 0.14
+    },
+    {
+        "name": "Omastar",
+        "spawn_chance": 0.0061
+    },
+    {
+        "name": "Kabuto",
+        "spawn_chance": 0.1
+    },
+    {
+        "name": "Kabutops",
+        "spawn_chance": 0.0032
+    },
+    {
+        "name": "Aerodactyl",
+        "spawn_chance": 0.018
+    },
+    {
+        "name": "Snorlax",
+        "spawn_chance": 0.016
+    },
+    {
+        "name": "Articuno",
+        "spawn_chance": 0
+    },
+    {
+        "name": "Zapdos",
+        "spawn_chance": 0
+    },
+    {
+        "name": "Moltres",
+        "spawn_chance": 0
+    },
+    {
+        "name": "Dratini",
+        "spawn_chance": 0.3
+    },
+    {
+        "name": "Dragonair",
+        "spawn_chance": 0.02
+    },
+    {
+        "name": "Dragonite",
+        "spawn_chance": 0.0011
+    },
+    {
+        "name": "Mewtwo",
+        "spawn_chance": 0
+    },
+    {
+        "name": "Mew",
+        "spawn_chance": 0
+    }
+]
