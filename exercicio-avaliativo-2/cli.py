@@ -37,7 +37,7 @@ class TeacherCLI(SimpleCLI):
     def read_teacher(self):
         name = input('Insira o nome do professor para busca: ')
         result = self.teacher_crud.read(name)
-        print(result)
+        print(f'Nome: {result[0]['nome']} \nCPF: {result[0]['cpf']} \nAno de Nascimento: {result[0]['ano_nasc']}')
 
     def update_teacher(self):
         name = input('Insira o nome do professor que será alterado: ')

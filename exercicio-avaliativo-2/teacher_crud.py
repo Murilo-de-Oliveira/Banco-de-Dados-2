@@ -11,7 +11,7 @@ class TeacherCrud:
             print(f'O professor {name} foi criado no banco de dados')
 
     def read(self, name):
-        query = "MATCH (t:Teacher {name: $name}) RETURN t"
+        query = "MATCH (t:Teacher {name: $name}) RETURN t.name AS nome, t.cpf AS cpf, t.ano_nasc AS ano_nasc"
         result = self.db.execute_query(query, {'name': name})
         return result
     
